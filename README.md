@@ -4,3 +4,4 @@ on branch feature-A
 =======
 - fix-B
 - feature-C CCCC
+- feature-D
